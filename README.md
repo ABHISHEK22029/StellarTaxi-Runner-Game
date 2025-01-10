@@ -19,7 +19,3 @@
 - **Programming Language**: C#
 - **Platform**: Cross-platform (Playable on desktop and mobile)
 
-## 📝 Installation & Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/StarTaxi.git
